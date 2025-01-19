@@ -1,6 +1,8 @@
 import fsqDevelopers from "@api/fsq-developers";
+import * as dotenv from "dotenv";
+dotenv.config();
 
-fsqDevelopers.auth("QTZD2NMLPUH4V44WBE5XINC0EFUDVN2RWAA4WCMP21KL2J0N");
+fsqDevelopers.auth(process.env.OAUTH_KEY as string);
 fsqDevelopers
   .getUserCheckins({ v: "20231010", limit: "100", offset: "0" })
   .then(({ data }) => console.log(data))
