@@ -11,8 +11,5 @@
   "dependencies": {
     "@api/fsq-developers": "file:.api/apis/fsq-developers",
     "dotenv": "^16.4.7"
-  },
-  "devDependencies": {
-    "ts-node": "^10.9.2"
   }
 }
