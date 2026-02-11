@@ -1,0 +1,313 @@
+{
+  "event": {
+    "name": "January 30 General Strike",
+    "date": "2026-01-30",
+    "rally_location": "Washington Square Park",
+    "rally_time": "14:00",
+    "city": "Salt Lake City",
+    "state": "Utah"
+  },
+  "businesses": [
+    {
+      "name": "Baby's Bagels",
+      "instagram_handle": "babys.bagels",
+      "type": "restaurant",
+      "subtype": "bagel shop",
+      "address": "204 E 500 S, Salt Lake City, UT 84111",
+      "neighborhood": "downtown",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7596,
+      "lng": -111.8783,
+      "strike_action": "closing_early",
+      "strike_day_hours": {
+        "open": null,
+        "close": "12:00",
+        "reopen": "17:00",
+        "notes": "Closing at noon, reopening at 5pm for pizza"
+      },
+      "donations": {
+        "donating": true,
+        "type": "free_food",
+        "details": "Free bagels and cream cheese for protesters"
+      },
+      "source_image": "SaltLakeCity-0.jpg"
+    },
+    {
+      "name": "Ken Sanders Rare Books",
+      "instagram_handle": "kensandersbooks",
+      "type": "retail",
+      "subtype": "bookstore",
+      "address": "209 E 500 S, Salt Lake City, UT 84111",
+      "neighborhood": "downtown",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7596,
+      "lng": -111.8779,
+      "strike_action": "open_as_community_space",
+      "strike_day_hours": {
+        "open": "10:00",
+        "close": "18:00",
+        "reopen": null,
+        "notes": "Open as warming space across from Washington Park with community resources and organizers"
+      },
+      "donations": {
+        "donating": true,
+        "type": "percentage_of_sales",
+        "details": "10% of sales to Community Aid Network in Minnesota and Comunidades Unidas in Utah"
+      },
+      "source_image": "SaltLakeCity-2.jpg"
+    },
+    {
+      "name": "Laziz Kitchen",
+      "instagram_handle": "lazizslc",
+      "type": "restaurant",
+      "subtype": "middle eastern restaurant",
+      "address": "912 S Jefferson St W, Salt Lake City, UT 84101",
+      "neighborhood": "granary district",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7509,
+      "lng": -111.8993,
+      "strike_action": "open_as_community_space",
+      "strike_day_hours": {
+        "open": null,
+        "close": null,
+        "reopen": null,
+        "notes": "Shutting off online ordering. Staying open as safe space offering free coffee, soda, and water. Space to write letters."
+      },
+      "donations": {
+        "donating": true,
+        "type": "free_drinks",
+        "details": "Free coffee, soda, and water"
+      },
+      "source_image": "SaltLakeCity-3.jpg"
+    },
+    {
+      "name": "Boba Guru",
+      "instagram_handle": null,
+      "type": "restaurant",
+      "subtype": "boba tea shop",
+      "address": "55 E Broadway, Salt Lake City, UT 84111",
+      "neighborhood": "downtown",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7637,
+      "lng": -111.8867,
+      "strike_action": "donating",
+      "strike_day_hours": {
+        "open": null,
+        "close": null,
+        "reopen": null,
+        "notes": "Donating to National Immigrant Justice Center. No I.C.E. Allowed sign posted."
+      },
+      "donations": {
+        "donating": true,
+        "type": "charitable_donation",
+        "details": "Donating to National Immigrant Justice Center"
+      },
+      "source_image": "SaltLakeCity-5.jpg"
+    },
+    {
+      "name": "Sugar House Coffee",
+      "instagram_handle": "sugarhousecoffee",
+      "type": "restaurant",
+      "subtype": "coffee shop",
+      "address": "2011 S 1100 E, Salt Lake City, UT 84106",
+      "neighborhood": "Sugar House",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7271,
+      "lng": -111.8562,
+      "strike_action": "closing_early",
+      "strike_day_hours": {
+        "open": "07:00",
+        "close": "13:00",
+        "reopen": null,
+        "notes": "Open 7am-1pm, closing at 1pm so staff can attend protest at Washington Square at 2pm"
+      },
+      "donations": {
+        "donating": true,
+        "type": "percentage_of_sales",
+        "details": "20% of sales given directly to baristas in Minneapolis"
+      },
+      "source_image": "SaltLakeCity-7.jpg"
+    },
+    {
+      "name": "Tres Gatos Coffee",
+      "instagram_handle": "tresgatoscoffee",
+      "type": "restaurant",
+      "subtype": "coffee shop",
+      "address": "7567 S Main St, Midvale, UT 84047",
+      "neighborhood": null,
+      "city": "Midvale",
+      "state": "UT",
+      "lat": 40.6186,
+      "lng": -111.8965,
+      "strike_action": "closing_early",
+      "strike_day_hours": {
+        "open": null,
+        "close": "13:00",
+        "reopen": null,
+        "notes": "Closing at 1:00pm so baristas can walk together in solidarity"
+      },
+      "donations": {
+        "donating": false,
+        "type": null,
+        "details": null
+      },
+      "source_image": "SaltLakeCity-9.jpg"
+    },
+    {
+      "name": "Publik Coffee Roasters",
+      "instagram_handle": "publikcoffee",
+      "type": "restaurant",
+      "subtype": "coffee shop",
+      "address": "975 S West Temple, Salt Lake City, UT 84101",
+      "neighborhood": "granary district",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7514,
+      "lng": -111.8926,
+      "strike_action": "closed_all_day",
+      "strike_day_hours": {
+        "open": null,
+        "close": null,
+        "reopen": null,
+        "notes": "Joining the national strike. Closed for the day."
+      },
+      "donations": {
+        "donating": false,
+        "type": null,
+        "details": null
+      },
+      "source_image": "SaltLakeCity-10.jpg"
+    },
+    {
+      "name": "Maven SLC",
+      "instagram_handle": "mavenslc",
+      "type": "fitness_creative",
+      "subtype": "fitness studio and creative space",
+      "address": "155 E 900 S, Salt Lake City, UT 84111",
+      "neighborhood": "Maven District",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7507,
+      "lng": -111.8847,
+      "strike_action": "closed_all_day",
+      "strike_day_hours": {
+        "open": null,
+        "close": null,
+        "reopen": null,
+        "notes": "Closing doors, paying team, joining the march. All Maven STRONG classes cancelled (members keep passes). Maven CREATE space accessible with pass. Returning Monday. Emergency maintenance: 801.810.0023"
+      },
+      "donations": {
+        "donating": false,
+        "type": null,
+        "details": null
+      },
+      "source_image": "SaltLakeCity-11.jpg"
+    },
+    {
+      "name": "Salt and Honey Market",
+      "instagram_handle": "saltandhoneymarket",
+      "type": "retail",
+      "subtype": "market",
+      "address": "926 E 900 S, Salt Lake City, UT 84105",
+      "neighborhood": "9th & 9th",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7519,
+      "lng": -111.8608,
+      "strike_action": "partial_closure",
+      "strike_day_hours": {
+        "open": "10:00",
+        "close": "14:00",
+        "reopen": "16:00",
+        "notes": "Open 10am-2pm at 9th & 9th location for poster-making with art supplies, donuts, and bagels. Closed 2-4pm so staff can participate in rally."
+      },
+      "donations": {
+        "donating": true,
+        "type": "free_food_and_supplies",
+        "details": "Glitter, markers, glue, supplies for poster-making. Refreshments (donuts and bagels) served."
+      },
+      "source_image": "SaltLakeCity-19.jpg"
+    },
+    {
+      "name": "Sunroom Coffee",
+      "instagram_handle": "sunroomcoffee",
+      "type": "restaurant",
+      "subtype": "coffee shop",
+      "address": "470 W 200 N, Salt Lake City, UT 84103",
+      "neighborhood": "hardware district",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7733,
+      "lng": -111.9014,
+      "strike_action": "open_with_donations",
+      "strike_day_hours": {
+        "open": null,
+        "close": null,
+        "reopen": null,
+        "notes": "Open on January 30th with proceeds going to charity"
+      },
+      "donations": {
+        "donating": true,
+        "type": "percentage_of_sales",
+        "details": "20% of every dollar collected (including tips, not from staff) goes to families in need or @nomaslegal foundation. 50% of gift card sales to families in need or @nomaslegal."
+      },
+      "source_image": "SaltLakeCity-22.jpg"
+    },
+    {
+      "name": "The Pizza Yard",
+      "instagram_handle": "thepizzayard",
+      "type": "restaurant",
+      "subtype": "pizza restaurant",
+      "address": null,
+      "neighborhood": null,
+      "city": "Midway",
+      "state": "UT",
+      "lat": null,
+      "lng": null,
+      "strike_action": "open_with_donations",
+      "strike_day_hours": {
+        "open": null,
+        "close": null,
+        "reopen": null,
+        "notes": "Staying open, donating 100% of profits from 1/30"
+      },
+      "donations": {
+        "donating": true,
+        "type": "percentage_of_profits",
+        "details": "100% of profits from Friday 1/30 donated to Utah Immigrant Advocacy Coalition and the Immigrant Law Center of Minnesota"
+      },
+      "source_image": "SaltLakeCity-26.jpg",
+      "geocode_notes": "Web search indicates The Pizza Yard is located in Midway, UT (not SLC). Exact address needs verification."
+    },
+    {
+      "name": "Cozy Coffee",
+      "instagram_handle": "cozycoffeeslc",
+      "type": "restaurant",
+      "subtype": "coffee shop",
+      "address": "435 S 400 W, Salt Lake City, UT 84101",
+      "neighborhood": "Pioneer Park",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "lat": 40.7614,
+      "lng": -111.9013,
+      "strike_action": "closing_early",
+      "strike_day_hours": {
+        "open": null,
+        "close": "12:00",
+        "reopen": null,
+        "notes": "Both locations closing at 12pm. Meeting at Cozy Coffee 2 Go (435 S 400 W) at 1pm, then walking to Washington Square at 2pm."
+      },
+      "donations": {
+        "donating": false,
+        "type": null,
+        "details": null
+      },
+      "source_image": "SaltLakeCity-33.jpg"
+    }
+  ]
+}
